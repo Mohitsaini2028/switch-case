@@ -1,5 +1,5 @@
 Import java.util.scanner;
-public class switchcase{
+public class Switchcase{
 
 public static void main(String[] args){
 int choice;
